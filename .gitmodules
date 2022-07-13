@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "infercnv"]
+	path = infercnv
+	url = https://github.com/broadinstitute/infercnv
+	shallow = true
+	registered = true
