@@ -1,5 +1,9 @@
 [
   {
+    "package": "gsalib",
+    "oncran": true
+  },
+  {
     "package": "infercnv"
   }
 ]
