@@ -1,9 +1,9 @@
 [
   {
-    "package": "infercnv"
-  },
-  {
     "package": "gsalib",
     "oncran": true
+  },
+  {
+    "package": "infercnv"
   }
 ]
