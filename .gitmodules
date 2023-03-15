@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "gsalib"]
-	path = gsalib
-	url = https://github.com/broadinstitute/gsalib
-	shallow = true
-	registered = true
 [submodule "infercnv"]
 	path = infercnv
 	url = https://github.com/broadinstitute/infercnv
+	shallow = true
+	registered = true
+[submodule "gsalib"]
+	path = gsalib
+	url = https://github.com/broadinstitute/gsalib
 	shallow = true
 	registered = true
