@@ -5,6 +5,3 @@
 [submodule "gsalib"]
 	path = gsalib
 	url = https://github.com/broadinstitute/gsalib
-[submodule "infercnv"]
-	path = infercnv
-	url = https://github.com/broadinstitute/infercnv
